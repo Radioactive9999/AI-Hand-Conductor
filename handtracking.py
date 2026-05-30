@@ -1,7 +1,4 @@
-%pip install mediapipe opencv-python
-pip install sounddevice numpy
-!pip install pygame
-!pip install --upgrade pip
+
 import cv2
 import mediapipe as mp
 import time
