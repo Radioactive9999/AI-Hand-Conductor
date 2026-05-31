@@ -1,6 +1,6 @@
 # AI Hand Conductor
 
-A hand gesture controlled music conductor built using MediaPipe, OpenCV and Pygame MIDI.
+A hand gesture-controlled music conductor built using MediaPipe, OpenCV, and Pygame MIDI.
 
 ## Features
 
@@ -9,11 +9,12 @@ A hand gesture controlled music conductor built using MediaPipe, OpenCV and Pyga
 - Pitch Control
 - Tempo Control
 - Chord Mode
-- Scale Switching
+- 4 Musical Instruments(Piano, Flute, Organ, Violin)
 
 ## Technologies Used
 
 - Python
+- Numpy
 - OpenCV
 - MediaPipe
 - Pygame MIDI
